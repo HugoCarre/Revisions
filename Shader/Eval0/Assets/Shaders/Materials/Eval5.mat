@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eval5
+  m_Shader: {fileID: 4800000, guid: 35d5c3ed42570d049b8ef33ab928aa7c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _CrispFactor: 0
+    m_Colors:
+    - _Direction: {r: 0.39, g: 0.47, b: 0.18, a: 0}
+    - _Rotation: {r: 134.9, g: 37.71, b: 0, a: 0}
+    - _Size: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
